@@ -22,8 +22,14 @@ https://github.com/user-attachments/assets/85f54747-3444-46a7-a901-dd5d2f94cc2e
 
 https://github.com/user-attachments/assets/992ac964-bf86-46e9-a45e-049e001faad3
 
+Дополнительно:
+
 Создание кастомизируемых дашбордов на основе сохраненных отчетов для непрерывного мониторинга ключевых бизнес-метрик в реальном времени.
 <img width="1920" height="994" alt="изображение" src="https://github.com/user-attachments/assets/20a00173-f971-484d-b81b-ff4f5a605ca9" />
+
+
+
+<img width="1920" height="997" alt="изображение" src="https://github.com/user-attachments/assets/78dc670f-d382-40da-8f6d-c0d4a7f542a9" />
 
 
 ## Сценарий 4. Единая библиотека шаблонов
